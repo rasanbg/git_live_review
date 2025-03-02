@@ -8,7 +8,7 @@ public class Table {
     /*
     Method: multiplicationTable
     Parameter: num
-    Returun: Void
+    Return: Void
     prints multiplication table
      */
 
@@ -19,6 +19,7 @@ public class Table {
         }
 
     }
+
 }
 
 
