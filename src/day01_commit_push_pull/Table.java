@@ -1,8 +1,10 @@
 package day01_commit_push_pull;
 
+
 public class Table {
     public static void main(String[] args) {
         multiplicationTable(5);
+        multiplicationTable();
     }
 
     /*
@@ -19,7 +21,18 @@ public class Table {
         }
 
     }
+        /*
+    Overloaded Method: multiplicationTable
+    Return: void
+    prints multiplication table for the numbers 1 - 9
+     */
 
+    public static void multiplicationTable() {
+        for (int i = 1; i <=10 ; i++) {
+            multiplicationTable(i);
+            System.out.println("------------");
+        }
+    }
 }
 
 
