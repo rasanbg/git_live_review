@@ -6,7 +6,7 @@ public class PullDemo {
 
         System.out.println("Hello from Local");
 
-        System.out.println("Hello from teammate whe pushed to github");
+        System.out.println("Hello from teammate who pushed to github");
 
     }
 }
