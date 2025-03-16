@@ -8,6 +8,8 @@ public class PullDemo {
 
         System.out.println("Hello from another teammate in Github");
 
-        System.out.println("Hello again from Another in GIthub at line 11");
+        System.out.println("Hello again from Another in Github at line 11");
+
+        System.out.println("Hello from local at line 13");
     }
 }
