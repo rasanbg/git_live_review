@@ -6,5 +6,6 @@ public class MyComputerObject {
         MyComputer myComputer = new MyComputer("Apple MacBook", 2000.0);
         System.out.println(myComputer);
 
+        
     }
 }
